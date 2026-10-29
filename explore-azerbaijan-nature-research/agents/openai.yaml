@@ -1,4 +1,0 @@
-interface:
-  display_name: "Explore Azerbaijan Nature Research"
-  short_description: "Mənbəli təbiət araşdırması və məhsul planlaması"
-  default_prompt: "Use $explore-azerbaijan-nature-research to prepare the source-grounded Azerbaijan nature tourism report using the bundled Azerbaijani brief."

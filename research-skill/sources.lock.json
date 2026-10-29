@@ -79,9 +79,5 @@
       ]
     }
   ],
-  "user_brief": {
-    "path": "references/research-brief.az.md",
-    "sha256": "01287dd6a90f57d99eead98c57bcf15333dce4698531eb51c126d206b7758b94",
-    "origin": "User-provided research prompt; copied without changes."
-  }
+  "package": "research-skill"
 }

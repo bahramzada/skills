@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Skill"
+  short_description: "Mənbəli araşdırma, sintez və məhsul planlaması"
+  default_prompt: "Use $research-skill to investigate my question, verify the evidence and produce a sourced answer in the requested format."
