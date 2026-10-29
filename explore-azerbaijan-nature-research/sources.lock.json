@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-29",
+  "source_snapshot_role": "Audit and attribution data, not active workflow instructions. Use adapted references.",
+  "sources": [
+    {
+      "name": "search-strategy",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "2574e29377c7173d0cecffef29a6ecbd7f8ccb5d",
+      "path": "enterprise-search/skills/search-strategy/SKILL.md",
+      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/2574e29377c7173d0cecffef29a6ecbd7f8ccb5d/enterprise-search/skills/search-strategy/SKILL.md",
+      "sha256": "71d5ba2d219a72d696e079885cba2fb5455ba5da6b1404491f8b945bdd8694c6",
+      "snapshot": "sources/search-strategy.md",
+      "license": "Apache-2.0",
+      "upstream_license_path": "enterprise-search/LICENSE",
+      "upstream_license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted_into": [
+        "references/search-and-verification.md"
+      ]
+    },
+    {
+      "name": "knowledge-synthesis",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "2574e29377c7173d0cecffef29a6ecbd7f8ccb5d",
+      "path": "enterprise-search/skills/knowledge-synthesis/SKILL.md",
+      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/2574e29377c7173d0cecffef29a6ecbd7f8ccb5d/enterprise-search/skills/knowledge-synthesis/SKILL.md",
+      "sha256": "8dc66c66ef0004010bbf2d569251163e90a6675b982e0cb99ef26b4dd1c5a0f6",
+      "snapshot": "sources/knowledge-synthesis.md",
+      "license": "Apache-2.0",
+      "upstream_license_path": "enterprise-search/LICENSE",
+      "upstream_license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted_into": [
+        "references/synthesis.md"
+      ]
+    },
+    {
+      "name": "validate-data",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "2574e29377c7173d0cecffef29a6ecbd7f8ccb5d",
+      "path": "data/skills/validate-data/SKILL.md",
+      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/2574e29377c7173d0cecffef29a6ecbd7f8ccb5d/data/skills/validate-data/SKILL.md",
+      "sha256": "1e424822043480375b80aef9416227b1c8083af749ca536568716265f79ca54b",
+      "snapshot": "sources/validate-data.md",
+      "license": "Apache-2.0",
+      "upstream_license_path": "data/LICENSE",
+      "upstream_license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted_into": [
+        "references/quality-gate.md"
+      ]
+    },
+    {
+      "name": "write-spec",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "2574e29377c7173d0cecffef29a6ecbd7f8ccb5d",
+      "path": "product-management/skills/write-spec/SKILL.md",
+      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/2574e29377c7173d0cecffef29a6ecbd7f8ccb5d/product-management/skills/write-spec/SKILL.md",
+      "sha256": "ca6670913878b4ac4582727562bfced5271492a5a800d934f68c9e7bc1cd4dcc",
+      "snapshot": "sources/write-spec.md",
+      "license": "Apache-2.0",
+      "upstream_license_path": "product-management/LICENSE",
+      "upstream_license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted_into": [
+        "references/product-planning.md"
+      ]
+    },
+    {
+      "name": "roadmap-update",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "2574e29377c7173d0cecffef29a6ecbd7f8ccb5d",
+      "path": "product-management/skills/roadmap-update/SKILL.md",
+      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/2574e29377c7173d0cecffef29a6ecbd7f8ccb5d/product-management/skills/roadmap-update/SKILL.md",
+      "sha256": "bdb121e290b590d60b94bca84d1700a8803c78db9f68f2a28fd04ccfe8aceb9e",
+      "snapshot": "sources/roadmap-update.md",
+      "license": "Apache-2.0",
+      "upstream_license_path": "product-management/LICENSE",
+      "upstream_license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted_into": [
+        "references/product-planning.md"
+      ]
+    }
+  ],
+  "user_brief": {
+    "path": "references/research-brief.az.md",
+    "sha256": "01287dd6a90f57d99eead98c57bcf15333dce4698531eb51c126d206b7758b94",
+    "origin": "User-provided research prompt; copied without changes."
+  }
+}
